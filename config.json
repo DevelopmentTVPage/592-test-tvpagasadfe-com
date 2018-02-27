@@ -1,0 +1,15 @@
+{
+    "title": "test",
+    "baseURL": "https:\/\/test.tvpagasadfe.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759123",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "tvpagasadfe.com"
+    }
+}
